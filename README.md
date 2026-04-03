@@ -5,7 +5,7 @@ Learn Machine Learning the Right Way
 
 👉 https://vyanmadai7.github.io/ML-Full-Course/
 
-No signup.. No payment.. Just learn.
+No signup.. No payment.. Just learn..
 
 📌 What is this?
 
