@@ -43,44 +43,44 @@ This course fixes that.
 ✅ Code with clear comments
 ✅ Focus on understanding
 🧩 Course Structure
-ML Full Course
-│
-├── 1. Basics of Machine Learning
-│   ├── What is ML?
-│   ├── Types of ML
-│   └── Real-world examples
-│
-├── 2. Python for ML
-│   ├── Basics
-│   ├── Libraries
-│   └── Practice
-│
-├── 3. Data Handling
-│   ├── NumPy
-│   ├── Pandas
-│   └── Data Cleaning
-│
-├── 4. Machine Learning Algorithms
-│   ├── Linear Regression
-│   ├── Logistic Regression
-│   ├── KNN
-│   ├── Decision Trees
-│   └── Naive Bayes
-│
-├── 5. Model Evaluation
-│   ├── Accuracy
-│   ├── Precision / Recall
-│   ├── Overfitting
-│   └── Cross Validation
-│
-├── 6. Advanced Topics
-│   ├── Feature Engineering
-│   ├── Optimization
-│   └── Ensemble Learning
-│
-└── 7. Deep Learning (Intro)
-    ├── Neural Networks
-    └── Basics
+ML Full Course<br>
+│<br>
+├── 1. Basics of Machine Learning<br>
+│   ├── What is ML?<br>
+│   ├── Types of ML<br>
+│   └── Real-world examples<br>
+│<br>
+├── 2. Python for ML<br>
+│   ├── Basics<br>
+│   ├── Libraries<br>
+│   └── Practice<br>
+│<br>
+├── 3. Data Handling<br>
+│   ├── NumPy<br>
+│   ├── Pandas<br>
+│   └── Data Cleaning<br>
+│<br>
+├── 4. Machine Learning Algorithms<br>
+│   ├── Linear Regression<br>
+│   ├── Logistic Regression<br>
+│   ├── KNN<br>
+│   ├── Decision Trees<br>
+│   └── Naive Bayes<br>
+│<br>
+├── 5. Model Evaluation<br>
+│   ├── Accuracy<br>
+│   ├── Precision / Recall<br>
+│   ├── Overfitting<br>
+│   └── Cross Validation<br>
+│<br>
+├── 6. Advanced Topics<br>
+│   ├── Feature Engineering<br>
+│   ├── Optimization<br>
+│   └── Ensemble Learning<br>
+│<br>
+└── 7. Deep Learning (Intro)<br>
+    ├── Neural Networks<br>
+    └── Basics<br>
 💻 How to use
 🌐 Option 1 (Best)
 
