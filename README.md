@@ -9,10 +9,9 @@ No signup.. No payment.. Just learn..
 
 📌 What is this?
 
-This is a complete Machine Learning course made for:
-
+This is a complete Machine Learning course made for:-
 Beginners
-Self-learners
+Self learners
 Future AI builders
 
 Most courses make things confusing.
