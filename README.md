@@ -36,7 +36,7 @@ They jump into code without understanding
 They watch videos but don’t practice
 They memorize instead of thinking
 
-This course fixes that.
+This course fixes that...
 
 ✅ Simple explanations
 ✅ Step-by-step learning
