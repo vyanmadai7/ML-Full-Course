@@ -16,7 +16,7 @@ Future AI builders<br>
 
 Most courses make things confusing...
 
-This one makes things clear and simple.
+This one makes things clear and simple...
 
 🧠 What you will learn
 
