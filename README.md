@@ -20,7 +20,7 @@ This one makes things clear and simple...
 
 🧠 What you will learn
 
-You will learn both theory + coding:
+You will learn both theory + coding:--
 
 What Machine Learning really is
 How models learn from data
