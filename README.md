@@ -30,7 +30,7 @@ How to check if your model is good or bad
 Basics of Deep Learning
 🔥 Why this course is different
 
-Most people fail in ML because:--
+Most people fail in ML because:----
 
 They jump into code without understanding
 They watch videos but don’t practice
