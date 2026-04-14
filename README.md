@@ -164,6 +164,6 @@ If this helped you:----
 
 Most people start learning ML.
 
-Very few finish.
+Very few finish..
 
 Be in the second group.
