@@ -92,7 +92,7 @@ Just open the website:----
 git clone https://github.com/vyanmadai7/ML-Full-Course.git
 cd ML-Full-Course
 
-Then open:
+Then open:----
 
 index.html
 🎯 Who should use this?
