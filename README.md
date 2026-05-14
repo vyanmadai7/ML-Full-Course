@@ -5,6 +5,8 @@ Learn Machine Learning the Right Way
 
 👉 https://vyanmadai7.github.io/ML-Full-Course/
 
+--------------------
+
 📌 What is this?
 
 This is a complete Machine Learning course made for:-<br>
