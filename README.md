@@ -88,7 +88,9 @@ ML Full Course<br>
 💻 How to use
 🌐 Option 1 (Best)
 
-Just open the website:----
+--------------------
+
+Just open the website:
 
 👉 https://vyanmadai7.github.io/ML-Full-Course/
 
