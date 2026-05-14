@@ -127,6 +127,8 @@ Watch → Forget → Repeat
 
 📈 After finishing this
 
+--------------------
+
 You will be able to:
 
 Understand ML concepts clearly
