@@ -147,6 +147,8 @@ JavaScript
 
 Fast. Simple. No unnecessary tools.
 
+--------------------
+
 🤝 Contribute
 
 You can help improve this project:
@@ -155,6 +157,9 @@ Fix mistakes
 Improve explanations
 Add new topics
 Fork → Edit → Pull Request
+
+--------------------
+
 👤 Author
 
 Vyan Madai
