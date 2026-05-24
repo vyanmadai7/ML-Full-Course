@@ -18,7 +18,7 @@ Most courses make things confusing..
 
 This one makes things clear and simple..
 
---------------------
+------------------------
 
 🧠 What you will learn
 
